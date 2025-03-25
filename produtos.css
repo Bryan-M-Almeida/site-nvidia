@@ -1,0 +1,74 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/nvidia-gamers-green-logo-o1posdgoqrwb4spe.jpg");
+    color: #0c7500;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+    background-color: #023a17;
+    font-size: 20px;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 20px;
+    color: wheat;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #073d0086;
+}
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.product {
+    background-color: #221f1f;
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.product h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.product p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.product img {
+    width: 200px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    border: 2px solid #0c7500;
+}
